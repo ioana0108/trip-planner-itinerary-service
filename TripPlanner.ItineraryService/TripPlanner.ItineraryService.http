@@ -1,0 +1,6 @@
+@TripPlanner.ItineraryService_HostAddress = http://localhost:5093
+
+GET {{TripPlanner.ItineraryService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
